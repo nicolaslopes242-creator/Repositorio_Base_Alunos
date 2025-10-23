@@ -1,0 +1,4 @@
+Pedro,10.0
+Nicolas,10.0
+Carla,6.0
+Daniel, 6.8 
